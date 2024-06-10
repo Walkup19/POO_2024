@@ -61,11 +61,6 @@ suma(n1,n2)
 """crear un programa que solicite a traves de una funcion la siguiente informacion:
 nombre, edad, estatura, tipo de sangre.
 usa los 4 tipos de funciones"""
-def myfunc():
-    name = input("nombre del paciente: ")
-    age = int(input("edad del paciente: "))
-    altura = int(input("altura del paciente en metros: "))
-    bloot_type = input("tipo de sangre: ")
 
 def myfunc():
     name = input("nombre del paciente: ")
