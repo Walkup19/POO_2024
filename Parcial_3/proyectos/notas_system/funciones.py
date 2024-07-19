@@ -1,0 +1,2 @@
+def borrarPantalla():
+    import os
